@@ -1,18 +1,7 @@
 # Bonjour à tous ! ╰(￣ω￣ｏ)
 
-Je m'appelle Yann et je suis étudiant à Strasbourg, plus précisemment à Illkirch-Graffenstaden en BUT Informatique.
-
-# Mes compétences ╰(*°▽°*)╯
-
-Je suis développeur débutant dans plusieurs domaines :
-- Java
-- C#
-- SQL
-- Python
-- C
-- HTML / CSS / Javascript
-- Assembleur
-
-La plupart du temps j'utilise Windows pour mes projets, mais je peux très bien utiliser Linux aussi.
+Passioné de jeux vidéos, j'ai toujours voulu développer mon propre jeu, c'est pour cela que je me suis dirigé vers des études d'informatique.
+Depuis bientôt 4 ans je suis plongé dans l'apprentissage de plein de domaine de l'informatique.
+J'ai notamment pû contribuer à de nombreux proojets dont certains que vous pouvez retrouver ci-dessous.
 
 # Mes projets (～￣▽￣)～
