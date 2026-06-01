@@ -2,7 +2,13 @@
 
 Passionné de jeux vidéo, j'ai toujours voulu développer mon propre jeu, c'est pour cela que je me suis dirigé vers des études d'informatique.
 
-Depuis bientôt 4 ans je suis plongé dans l'apprentissage de différents domaines de l'informatique.
+Depuis bientôt 4 ans je suis plongé dans l'apprentissage de différents domaines de l'informatique :
+- POO (Programmation Orientée Objet)
+- Création d'application Windows Form sur Visual Studio
+- Fonctionnement du réseau
+- Apprentissage de Linux
+- Gestion de bases de données
+- Création de site web
 
 J'ai notamment pû contribuer à de nombreux projets dont certains que vous pouvez retrouver ci-dessous.
 
