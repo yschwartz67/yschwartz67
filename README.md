@@ -4,13 +4,13 @@ Passionné de jeux vidéo, j'ai toujours voulu développer mon propre jeu, c'est
 
 Depuis bientôt 4 ans je suis plongé dans l'apprentissage de différents domaines de l'informatique :
 - POO (Programmation Orientée Objet)
-- Création d'application Windows Form sur Visual Studio
+- Création d'applications Windows Form sur Visual Studio
 - Fonctionnement du réseau
 - Apprentissage de Linux
 - Gestion de bases de données
-- Création de site web
+- Création de sites web
 
-J'ai notamment pû contribuer à de nombreux projets dont certains que vous pouvez retrouver ci-dessous.
+J'ai notamment pu contribuer à de nombreux projets dont certains que vous pouvez retrouver ci-dessous.
 
 # Mes projets (～￣▽￣)～
 
