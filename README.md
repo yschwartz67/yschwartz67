@@ -14,8 +14,13 @@ J'ai notamment pu contribuer à de nombreux projets dont certains que vous pouve
 
 # Mes projets (～￣▽￣)～
 
+Sur mon profil vous pouvez retrouver dans les projets épinglés :
 
-# Me contacter *^____^*
+**Projet Stargate** : 
+
+**Projet Inscryption** : 
+
+# Me contacter (*^▽^*)
 
 Vous pouvez me contacter via mon email sur mon profil Github ou via ces réseaux :
 
