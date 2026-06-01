@@ -16,7 +16,7 @@ J'ai notamment pu contribuer à de nombreux projets dont certains que vous pouve
 
 Sur mon profil vous pouvez retrouver ces projets suivants en épinglés :
 
-**Projet Stargate** : Ce projeta été réalisé sur Windows Form en groupe de 3 personnes, le but de ce projet était de réaliser une application permettant de gérer des missions spatiales ainsi que d'afficher des     informations variées. Ce projet devais contenir ces différents volets : 
+**Projet Stargate** : Ce projet a été réalisé sur Windows Form en groupe de 3 personnes, le but de ce projet était de réaliser une application permettant de gérer des missions spatiales ainsi que d'afficher des     informations variées, l'application a entièrement été créé en c#. Ce projet devais contenir ces différents volets : 
 - Un tableau de bord affichant un récapitulatif des missions (en cours, à venir et/ou passées)
 - Possibilité de créer une nouvelle mission, affecter des membres à cette mission puis définir des objectifs (captures d’extraterrestres, négociation de dataBaz,…)
 - Un récapitulatif complet des informations sur une mission (membres de l’équipage, captures, état du budget, dépenses effectuées…)
@@ -26,8 +26,12 @@ Sur mon profil vous pouvez retrouver ces projets suivants en épinglés :
 - Données statistiques sur les missions
 - Un PDF récapitulatif de la mission (téléchargeable)
 
+**Projet Inscryption** : Ce projet a été réalisé sur IntellIJ en groupe de 2 personnes, le but de ce projet était de de reproduire le système de combat inspiré du jeu Inscryption, le jeu a entièrement été créé en Java.
+Le but du jeu est de gagner trois parties, pour cela il faut infliger des dégâts à l'adversaire jusqu'à atteindre un score de 5, si le score est à -5 cela siginife donc que vous avez perdu.
+Pour infliger des points de dégats vous devez poser des cartes animaux sur le plateau, si aucun animal ne vous fait face vous augmenter le score, sinon vous infliger des dégâts à l'animal en face de vous.
 
-**Projet Inscryption** : 
+
+**Projet réseau** : 
 
 # Me contacter (*^▽^*)
 
