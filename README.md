@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bonjour à tous ! o(*￣▽￣*)ブ
 
-<!--
-**yschwartz67/yschwartz67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Yann et je suis étudiant à Strasbourg en BUT Informatique à Illkirch-Graffenstaden.
 
-Here are some ideas to get you started:
+# Mes compétences ╰(*°▽°*)╯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis développeur débutant dans plusieurs domaines :
+- Java
+- C#
+- SQL
+- Python
+- C
+- HTML / CSS / Javascript
+- Assembleur
+
+# Mes projets (～￣▽￣)～
