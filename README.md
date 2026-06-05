@@ -44,6 +44,4 @@ Pour jouer certains animaux il faut sacrifier des animaux présents sur le plate
 
 Vous pouvez me contacter via mon email sur mon profil Github ou via ces réseaux :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ynn_stz)
-
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/.yannoushka)
