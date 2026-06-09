@@ -13,7 +13,8 @@ Depuis bientôt 4 ans je suis plongé dans l'apprentissage de différents domain
 J'ai notamment pu contribuer à de nombreux projets dont certains que vous pouvez retrouver ci-dessous.
 
 # Mes projets (～￣▽￣)～
-Sur mon profil vous pouvez retrouver ces projets suivants en épinglés :
+
+Mes projets épinglés reflètent les différents domaines abordés durant ma 1ère année de BUT Informatique. On y retrouve une application de gestion de données WinForms en C#, un jeu de stratégie utilisant la programmation orientée objet en Java, ainsi qu'une simulation des échanges bas niveau au sein d'un réseau en C. Chacun d'entre eux m'a permis de mettre en pratique des notions vues pendant ma 1ère année de BUT, et d'améliorer mes compétences en informatique.
 
 **Projet Stargate** : 
 
