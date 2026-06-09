@@ -13,10 +13,22 @@ Depuis bientôt 4 ans je suis plongé dans l'apprentissage de différents domain
 J'ai notamment pu contribuer à de nombreux projets dont certains que vous pouvez retrouver ci-dessous.
 
 # Mes projets (～￣▽￣)～
-
 Sur mon profil vous pouvez retrouver ces projets suivants en épinglés :
 
 **Projet Stargate** : 
+
+Application de bureau complète permettant d'orchestrer et de suivre des expéditions galactiques.
+
+Technologies : C#, Windows Forms
+
+Contexte : Projet en équipe de 3 personnes
+
+Fonctionnalités clés :
+- Tableau de bord interactif pour le suivi des missions (en cours, passées, à venir).
+- Gestion complète des équipages, des objectifs de mission (captures, négociations) et des budgets.
+- Encyclopédie intégrée recensant les planètes, les races extraterrestres et l'historique des événements.
+- Génération automatique de rapports de mission exportables au format PDF.
+
 
 Ce projet a été réalisé sur Windows Form en groupe de 3 personnes, le but de ce projet était de réaliser une application permettant de gérer des missions spatiales ainsi que d'afficher des informations variées, l'application a entièrement été créé en c#. Ce projet devais contenir ces différents volets : 
 - Un tableau de bord affichant un récapitulatif des missions (en cours, à venir et/ou passées)
@@ -32,6 +44,17 @@ Ce projet a été réalisé sur Windows Form en groupe de 3 personnes, le but de
 
 **Projet Inscryption** : 
 
+Reproduction fidèle du système de combat tactique au tour par tour inspiré du roguelike Inscryption.
+
+Technologies : Java
+
+Contexte : Projet en binôme
+
+Fonctionnalités clés :
+- Moteur de jeu complet : calcul des dégâts, conditions de victoire/défaite (score sur une balance de -5 à +5) et logique de placement sur le plateau.
+- Système de ressources avancé : implémentation des mécaniques de sacrifices de créatures et de gestion des os pour jouer des cartes spécifiques.
+
+
 Ce projet a été réalisé sur IntellIJ en groupe de 2 personnes, le but de ce projet était de de reproduire le système de combat de tour par tour inspiré du jeu Inscryption, le jeu a entièrement été créé en Java.
 
 Le but du jeu est de gagner trois parties, pour cela il faut infliger des dégâts à l'adversaire jusqu'à atteindre un score de 5, si le score est à -5 cela siginife donc que vous avez perdu.
@@ -43,6 +66,18 @@ Pour jouer certains animaux il faut sacrifier des animaux présents sur le plate
 ---
 
 **Projet réseau** : 
+
+Programme bas niveau simulant le comportement d'un réseau local et l'optimisation des chemins.
+
+Technologies : C
+
+Contexte : Projet en équipe de 3 personnes
+
+Fonctionnalités clés :
+- Parsing de données : lecture et extraction des informations depuis des fichiers de configuration réseau.
+- Simulation de trafic : gestion de l'envoi et de la réception des trames Ethernet entre les différentes machines.
+- Prévention des boucles : implémentation algorithmique du protocole STP (Spanning Tree Protocol) pour activer ou désactiver les liens réseau de manière dynamique.
+
 
 Ce projet a été réalisé sur Visual Studio Code en groupe de 3 personnes, le but de ce projet était de réaliser un programme en C capable de reproduire le comportement d'un réseau de type LAN.
 
