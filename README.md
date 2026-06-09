@@ -16,20 +16,6 @@ J'ai notamment pu contribuer à de nombreux projets dont certains que vous pouve
 
 Mes projets épinglés reflètent les différents domaines abordés durant ma 1ère année de BUT Informatique. On y retrouve une application de gestion de données WinForms en C#, un jeu de stratégie utilisant la programmation orientée objet en Java, ainsi qu'une simulation des échanges bas niveau au sein d'un réseau en C. Chacun d'entre eux m'a permis de mettre en pratique des notions vues pendant ma 1ère année de BUT, et d'améliorer mes compétences en informatique.
 
-**Projet Stargate** : 
-
-Application de bureau complète permettant d'orchestrer et de suivre des expéditions galactiques.
-
-Technologies : C#, Windows Forms
-
-Contexte : Projet en équipe de 3 personnes
-
-Fonctionnalités clés :
-- Tableau de bord interactif pour le suivi des missions (en cours, passées, à venir).
-- Gestion complète des équipages, des objectifs de mission (captures, négociations) et des budgets.
-- Encyclopédie intégrée recensant les planètes, les races extraterrestres et l'historique des événements.
-- Génération automatique de rapports de mission exportables au format PDF.
-
 ---
 
 **Projet Inscryption** : 
