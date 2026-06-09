@@ -40,6 +40,13 @@ Pour jouer certains animaux il faut sacrifier des animaux présents sur le plate
 
 **Projet réseau** : 
 
+Ce projet a été réalisé sur Visual Studio Code en groupe de 3 personnes, le but de ce projet était de réaliser un programme en C capable de reproduire le comportement d'un réseau de type LAN.
+
+Pour cela nous avons créer plusieurs méthodes pour :
+- Lire des fichiers de configuration du réseau
+- Envoyer et reçevoir des trames ethernet entre les machines
+- Activer/Désactiver le protocole STP sur le réseau
+
 # Me contacter (*^▽^*)
 
 Vous pouvez me contacter via mon email sur mon profil Github ou via ces réseaux :
