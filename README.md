@@ -18,29 +18,6 @@ Mes projets épinglés reflètent les différents domaines abordés durant ma 1�
 
 ---
 
-**Projet Inscryption** : 
-
-Reproduction fidèle du système de combat tactique au tour par tour inspiré du roguelike Inscryption.
-
-Technologies : Java
-
-Contexte : Projet en binôme
-
-Fonctionnalités clés :
-- Moteur de jeu complet : calcul des dégâts, conditions de victoire/défaite (score sur une balance de -5 à +5) et logique de placement sur le plateau.
-- Système de ressources avancé : implémentation des mécaniques de sacrifices de créatures et de gestion des os pour jouer des cartes spécifiques.
-
-
-Ce projet a été réalisé sur IntellIJ en groupe de 2 personnes, le but de ce projet était de de reproduire le système de combat de tour par tour inspiré du jeu Inscryption, le jeu a entièrement été créé en Java.
-
-Le but du jeu est de gagner trois parties, pour cela il faut infliger des dégâts à l'adversaire jusqu'à atteindre un score de 5, si le score est à -5 cela siginife donc que vous avez perdu.
-
-Pour infliger des points de dégats vous devez poser des cartes animaux sur le plateau, si aucun animal ne vous fait face vous augmenter le score, sinon vous infliger des dégâts à l'animal en face de vous.
-
-Pour jouer certains animaux il faut sacrifier des animaux présents sur le plateau ou dépenser des os (obtenu lorsqu'un animal allié meurs).
-
----
-
 **Projet réseau** : 
 
 Programme bas niveau simulant le comportement d'un réseau local et l'optimisation des chemins.
