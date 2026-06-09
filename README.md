@@ -28,6 +28,8 @@ Ce projet a été réalisé sur Windows Form en groupe de 3 personnes, le but de
 - Données statistiques sur les missions
 - Un PDF récapitulatif de la mission (téléchargeable)
 
+---
+
 **Projet Inscryption** : 
 
 Ce projet a été réalisé sur IntellIJ en groupe de 2 personnes, le but de ce projet était de de reproduire le système de combat de tour par tour inspiré du jeu Inscryption, le jeu a entièrement été créé en Java.
@@ -37,6 +39,8 @@ Le but du jeu est de gagner trois parties, pour cela il faut infliger des dégâ
 Pour infliger des points de dégats vous devez poser des cartes animaux sur le plateau, si aucun animal ne vous fait face vous augmenter le score, sinon vous infliger des dégâts à l'animal en face de vous.
 
 Pour jouer certains animaux il faut sacrifier des animaux présents sur le plateau ou dépenser des os (obtenu lorsqu'un animal allié meurs).
+
+---
 
 **Projet réseau** : 
 
