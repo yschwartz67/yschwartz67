@@ -14,7 +14,7 @@ J'ai notamment pu contribuer à de nombreux projets dont certains que vous pouve
 
 # Mes projets (～￣▽￣)～
 
-Mes projets épinglés reflètent les différents domaines abordés durant ma 1ère année de BUT Informatique. On y retrouve une application de gestion de données WinForms en C#, un jeu de stratégie utilisant la programmation orientée objet en Java, ainsi qu'une simulation des échanges bas niveau au sein d'un réseau en C. Chacun d'entre eux m'a permis de mettre en pratique des notions vues pendant ma 1ère année de BUT, et d'améliorer mes compétences en informatique.
+Mes projets épinglés reflètent les différents domaines abordés durant ma 1ère année de BUT Informatique. On y retrouve une application de gestion de données WinForms en C#, un jeu de stratégie utilisant la programmation orientée objet en Java, ainsi qu'une simulation des échanges bas niveau au sein d'un réseau en C. Chacun d'entre eux m'a permis de mettre en pratique des notions vues pendant ma 1ère année de BUT, et d'améliorer mes compétences en informatique. Vous pourrez retrouver d'autres projets scolaire ou personnel sur mon profil.
 
 # Me contacter (*^▽^*)
 
