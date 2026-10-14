@@ -38,7 +38,13 @@ Et l'aventure continue en 2e année avec de nouvelles quêtes !
 
 # 📜 Capacités enregistrés dans la tablette Sheikah <img src="https://github.com/user-attachments/assets/27c5bf77-b97d-40e3-b1bd-3c3d192c3601" align="middle" height=80 />
 
-<p align="center"> <img src="https://img.shields.io/badge/C%23-C8A862?style=for-the-badge&logo=csharp&logoColor=1a1408" alt="C#" /> <img src="https://img.shields.io/badge/Java-C8A862?style=for-the-badge&logo=openjdk&logoColor=1a1408" alt="Java" /> <img src="https://img.shields.io/badge/C-C8A862?style=for-the-badge&logo=c&logoColor=1a1408" alt="C" /> <br /> <img src="https://img.shields.io/badge/HTML5-C8A862?style=for-the-badge&logo=html5&logoColor=1a1408" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-C8A862?style=for-the-badge&logo=css3&logoColor=1a1408" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-C8A862?style=for-the-badge&logo=javascript&logoColor=1a1408" alt="JavaScript" /> <img src="https://img.shields.io/badge/Linux-C8A862?style=for-the-badge&logo=linux&logoColor=1a1408" alt="Linux" /> <img src="https://img.shields.io/badge/Git-C8A862?style=for-the-badge&logo=git&logoColor=1a1408" alt="Git" /> <img src="https://img.shields.io/badge/SQL-C8A862?style=for-the-badge" alt="SQL" /> </p> <br />
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-C8A862?style=for-the-badge&logo=csharp&logoColor=1a1408" alt="C#" /> <br />
+<img src="https://img.shields.io/badge/Java-C8A862?style=for-the-badge&logo=openjdk&logoColor=1a1408" alt="Java" /> 
+<img src="https://img.shields.io/badge/C-C8A862?style=for-the-badge&logo=c&logoColor=1a1408" alt="C" /> <br />
+<img src="https://img.shields.io/badge/GDScript-C8A862?style=for-the-badge&logo=godotengine&logoColor=1a1408" alt="GDScript" /> 
+<img src="https://img.shields.io/badge/HTML5-C8A862?style=for-the-badge&logo=html5&logoColor=1a1408" alt="HTML5" /> <img src="https://img.shields.io/badge/SQL-C8A862?style=for-the-badge" alt="SQL" /> <br />
+<img src="https://img.shields.io/badge/JavaScript-C8A862?style=for-the-badge&logo=javascript&logoColor=1a1408" alt="JavaScript" /> <img src="https://img.shields.io/badge/Linux-C8A862?style=for-the-badge&logo=linux&logoColor=1a1408" alt="Linux" /> <img src="https://img.shields.io/badge/Git-C8A862?style=for-the-badge&logo=git&logoColor=1a1408" alt="Git" /> <img src="https://img.shields.io/badge/CSS3-C8A862?style=for-the-badge&logo=css3&logoColor=1a1408" alt="CSS3" /> </p> <br />
 
 # 🔥 Me contacter <img height="70" align="middle" alt="image" src="https://github.com/user-attachments/assets/3a9ee611-15c4-4f51-b927-550a17026809" />
 
